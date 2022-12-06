@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Faisal Aduko Wahabu
-- 👀 I’m interested in AI and Cloud DevOps 
-- 🌱 I’m currently learning Cloud DevOps
-- 💞️ I’m looking to collaborate on any of the above interests
+- 👀 I’m interested in AI 
+- 💞️ I’m looking to collaborate on any ML research.
 - 📫 How to reach me faisaladuko@gmail.com
 
 <!---
